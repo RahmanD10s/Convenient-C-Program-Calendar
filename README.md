@@ -1,0 +1,2 @@
+# Convenient-C-Program-Calendar
+It is a calendar program that will print a calendar of our whole year and can take a note on a particular date on a particular month in a year. The purpose of this program is to learning of our C language in programming. The calendar program application presented here is a very simple console application developed using the C programming language. It is built without using any graphic properties instead it utilizes many windows properties to give the application a colorful look and feel
